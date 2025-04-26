@@ -1,11 +1,13 @@
 # Power-BI-SQL-Project
 
-                                          FINAL VISAUALISED OUTPUT OF POWER BI OF PIZZA SALES 
+                                          FINAL VISUALISED OUTPUT OF POWER BI OF PIZZA SALES 
+                                          
+![Screenshot (1)](https://github.com/user-attachments/assets/17262155-4df1-41ae-98de-05c9d8c91ae8)
 
 
 
 
-
+![Screenshot (2)](https://github.com/user-attachments/assets/c48cee25-3835-462a-bf0e-4ccc0eca3a72)
 
 
 
